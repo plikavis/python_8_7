@@ -61,3 +61,5 @@ def test_xlsx():
                 rc += 1
             rx += 1
         workbook_res.close()
+
+
